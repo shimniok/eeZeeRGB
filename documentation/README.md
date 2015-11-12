@@ -1,5 +1,7 @@
 # eeZeeRGB User Guide
-The WS2812B is the latest smart RGB module with onboard microcontroller.
+The WS2812B is the latest smart RGB module with onboard microcontroller and now it's easy to breadboard it, thanks to eeZeeRGB.
+
+Want one? [Buy now on Tindie](https://www.tindie.com/products/bot_thoughts/eezee-rgb-led/).
 
 ## How to Assemble
 
@@ -20,11 +22,11 @@ Assembly is easy. And, you can learn how to solder at the same time. Review [Spa
 
 Install pin headers into a breadboard, spaced 5 rows apart.
 
-![images/eezeergb1.jpg]
+![assembly 1](images/eezeergb1.jpg)
 
 Place eeZeeRGB onto the pin headers.
 
-![images/eezeergb2.jpg]
+![assembly 2](images/eezeergb2.jpg)
 
 Solder the pin headers in place.
 
