@@ -1,0 +1,8 @@
+*.o
+*.elf
+*.lss
+*.lib
+*.a
+*.la
+*.lo
+*.hex
