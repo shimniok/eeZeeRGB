@@ -88,14 +88,14 @@ How do you write firmware to use the eeZeeRGB with your microcontroller? Read on
 
   * Grab a copy of the [Adafruit NeoPixel Library](http://github.com/adafruit/Adafruit_NeoPixel/)
   * Follow instructions at the link above to install the NeoPixel library
-  * You can find my [example code here](https://code.google.com/p/bot-thoughts-eezee/source/browse/#svn%2Ftrunk%2FeeZeeRGB%2Ffirmware)
+  * Find my [example code here](https://github.com/shimniok/eeZeeRGB/tree/master/examples/Arduino_WS2812)
   * Connect DIN to Arduino D8
   * Compile and download the firmware to your Arduino
 
 ### ATtiny
 
   * Grab a copy of the Light [WS2812 library](https://github.com/cpldcpu/light_ws2812)
-  * Look in the light\_ws2812\_AVR folder
+  * Find my [example code here](https://github.com/shimniok/eeZeeRGB/tree/master/examples/AVR_WS2812)
   * Use make to compile the example programs
   * Flash an example hex file to yourATtiny
   * Connect PB1 to DI on the eeZee RGB
@@ -103,11 +103,11 @@ How do you write firmware to use the eeZeeRGB with your microcontroller? Read on
 
 ### Propeller
 
-You can find a WS2812B driver [here](http://obex.parallax.com/object/703). I have not tested the code myself.
+You can find a WS2812B driver [here](https://www.parallax.com/downloads/ws2812b-rgb-led-module-propeller-spin-code). I have not tested the code myself.
 
 ### mbed
 
-[Example](http://mbed.org/users/okini3939/code/LEDTape_WS2812/). I have not tested the code myself.
+[Example](https://developer.mbed.org/users/bridadan/code/WS2812_Example/). I have not tested the code myself.
 
 ## Datasheet
 
